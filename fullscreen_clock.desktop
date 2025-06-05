@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Full Screen Clock
+Comment=Displays a full screen digital clock
+Exec=/home/bpg/bin/fullscreen_clock
+Icon=fullscreen_clock
+Terminal=false
+Categories=Utility;
+
